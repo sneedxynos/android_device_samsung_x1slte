@@ -51,6 +51,7 @@ vendor/firmware/setfile_gw2.bin
 # NFC
 vendor/etc/nfc/sec_s3nsen4_hwreg.bin
 vendor/etc/nfc/sec_s3nsen4_swreg.bin
+vendor/firmware/nfc/sec_s3nsen4_firmware.bin
 
 # RIL - G981BXXSCDUJ5
 -vendor/lib64/libsec-ril-dsds.so|b5ccc85c955a5f79ab3267d5ea95919541678bfd
