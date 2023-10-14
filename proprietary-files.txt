@@ -28,6 +28,9 @@ vendor/firmware/bcmdhd_mfg.bin_b1
 vendor/firmware/bcmdhd_mon.bin_b1
 vendor/firmware/bcmdhd_sta.bin_b1
 
+# Bluetooth (A2DP)
+-vendor/lib/vendor.samsung.hardware.bluetooth.a2dp@1.0.so
+
 # Camera
 -vendor/lib64/hw/camera.exynos990.so
 -vendor/lib64/libexynoscamera3.so
